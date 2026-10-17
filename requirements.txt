@@ -1,4 +1,4 @@
-﻿streamlit
+streamlit
 pytesseract
 pdf2image
 langchain-community
