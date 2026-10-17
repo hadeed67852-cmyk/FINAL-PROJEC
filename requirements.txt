@@ -2,4 +2,4 @@ streamlit
 pytesseract
 pdf2image
 langchain-community
-google-genai
+google-generativeai
